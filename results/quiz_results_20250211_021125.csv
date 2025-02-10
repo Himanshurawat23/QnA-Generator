@@ -1,0 +1,6 @@
+question_number,question,question_type,user_answer,correct_answer,is_correct,options
+1,Which ancient civilization built the city of Machu Picchu?,MCQ,Aztecs,Incans,False,"['Aztecs', 'Mayans', 'Incans', 'Olmecs']"
+2,Which ancient city was the capital of the Inca Empire?,MCQ,Cusco,Cusco,True,"['Cusco', 'Machu Picchu', 'Lima', 'Quito']"
+3,Which ancient civilization built the city of Machu Picchu?,MCQ,Aztecs,Inca,False,"['Aztecs', 'Mayans', 'Inca', 'Olmec']"
+4,Which ancient civilization built the city of Machu Picchu?,MCQ,Aztecs,Inca,False,"['Aztecs', 'Mayans', 'Warriors of the Sun', 'Inca']"
+5,Which ancient city was the capital of the Inca Empire?,MCQ,Cuzco,Cuzco,True,"['Cuzco', 'Machu Picchu', 'Tihuanaco', 'Quito']"
